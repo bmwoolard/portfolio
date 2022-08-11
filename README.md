@@ -7,7 +7,7 @@ A web application that presents my entire web development portfolio to potential
 * HTML
 * CSS
 
-##colors used
+## Colors used
 * lavender - rgba(149,139,227,1)
 * pink - rgba(210,185,227,1)
 * blue - rgba(99,174,225,1)
